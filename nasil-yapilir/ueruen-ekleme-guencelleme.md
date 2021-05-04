@@ -14,7 +14,7 @@ Eksik veya yanlış bilgi girdiğinizde ekran uyarılarıyla bilgilendirilirsini
 
 Bir üründe değişiklik yapmak ya da ürünü silmek için listeden ilgili ürün isminin yanındaki üç nokta ikonuna basılır.
 
-![](../.gitbook/assets/28.png)
+![](../.gitbook/assets/28%20%282%29%20%281%29.png)
 
 Açılan ekrandan **Güncelle** butonuna bastığınızda ürün bilgilerini güncelleyebileceğiniz yeni bir ekran açılır ve güncellemelerinizi buradan yaparsınız.
 

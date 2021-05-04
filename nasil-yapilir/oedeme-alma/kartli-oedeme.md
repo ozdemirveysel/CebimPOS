@@ -22,7 +22,7 @@ Kredi kartı ile ödemelerde taksitli ödeme ve taksit ödeme seçenekleri de su
 
 Son olarak kart bilgilerinizi elle girerek ödeme alabilirsiniz.
 
-![](../../.gitbook/assets/46%20%282%29.png)
+![](../../.gitbook/assets/46%20%282%29%20%281%29.png)
 
 Ödeme bilgileri girildikten sonra Satışı Tamamla butonuna basılır ve güvenli ödeme seçenekleri kapsamında GSM numaranıza gönderilen doğrulama kodu girilerek satış tamamlanır.
 
