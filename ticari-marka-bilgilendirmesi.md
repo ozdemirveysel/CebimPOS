@@ -1,0 +1,2 @@
+# Ticari Marka Bilgilendirmesi
+

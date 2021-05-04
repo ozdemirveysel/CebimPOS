@@ -2,7 +2,7 @@
 description: Uygulamaya nasıl erişilebileceği ve yükleneceği bilgisini verir.
 ---
 
-# Erişim
+# Kurulum
 
 Uygulamayı cep telefonlarınıza [App Store](https://www.apple.com/tr/app-store/) veya [Google Play](https://play.google.com/store?hl=tr)’den yükleyebilirsiniz.
 

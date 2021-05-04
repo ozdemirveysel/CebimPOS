@@ -2,7 +2,7 @@
 description: Uygulama ve sistem güncellemelerinin nasıl yapılacağı anlatılır.
 ---
 
-# Güncellemeler
+# Güncelleme / Bakım
 
-Kullanıcılar uygulamalarını **App Store** veya **Google Play Store** üzerinden güncelleyebilirler. Sistem ve altyapı güncellemeleri Architecht tarafından yapılmaktadır.
+Kullanıcılar uygulamalarını **App Store** veya **Google Play Store** üzerinden güncelleyebilirler.
 

@@ -4,31 +4,30 @@
 
 ## 🏁 BAŞLARKEN
 
-* [Son Kullanıcı Dokümanı](baslarken/son-kullanici-dokuemani.md)
-* [İçindekiler](baslarken/deneme-1/README.md)
-  * [Alternatif İçindekiler](baslarken/deneme-1/untitled.md)
+* [Doküman Standartları ve Kavramlar](baslarken/son-kullanici-dokuemani/README.md)
+  * [Giriş](baslarken/son-kullanici-dokuemani/giris.md)
+  * [Standartlar ve Kavramlar](baslarken/son-kullanici-dokuemani/standartlar-ve-kavramlar.md)
 * [Genel Bilgiler](baslarken/cebimpos-hakkinda/README.md)
   * [Kullanıcılar](baslarken/cebimpos-hakkinda/hakkinda.md)
-  * [Erişim](baslarken/cebimpos-hakkinda/kullanicilar.md)
+  * [Kurulum](baslarken/cebimpos-hakkinda/kullanicilar.md)
   * [Ücretlendirme](baslarken/cebimpos-hakkinda/uecretlendirme-1/README.md)
     * [Kullanım Ücreti](baslarken/cebimpos-hakkinda/uecretlendirme-1/kullanim-ucreti.md)
     * [Hesaba Geçecek Tutarlar](baslarken/cebimpos-hakkinda/uecretlendirme-1/hesaba-gececek-tutarlar.md)
-  * [Güncellemeler](baslarken/cebimpos-hakkinda/guencellemeler.md)
+  * [Güncelleme / Bakım](baslarken/cebimpos-hakkinda/guencellemeler.md)
   * [Güvenli Kullanım](baslarken/cebimpos-hakkinda/guvenli-kullanim.md)
   * [İletişim](baslarken/cebimpos-hakkinda/iletisim.md)
-* [Kayıt ve Giriş](baslarken/kayit-ve-giris/README.md)
-  * [Uygulamaya Kaydolma](baslarken/kayit-ve-giris/uygulamaya-kaydolma.md)
-  * [Kullanıcı Doğrulama](baslarken/kayit-ve-giris/kullanici-dogrulama.md)
-  * [Şifre / PIN İşlemleri](baslarken/kayit-ve-giris/sifre-pin-islemleri/README.md)
-    * [Şifre](baslarken/kayit-ve-giris/sifre-pin-islemleri/sifre.md)
-    * [PIN](baslarken/kayit-ve-giris/sifre-pin-islemleri/pin.md)
-  * [Kullanıcı Ekleme / Silme](baslarken/kayit-ve-giris/kullanici-ekleme-silme.md)
-  * [Giriş](baslarken/kayit-ve-giris/giris.md)
-* [Ana Sayfa](baslarken/ana-sayfa/README.md)
-  * [Daha Fazla Menüsü](baslarken/ana-sayfa/daha-fazla.md)
 
 ## ⚙️ NASIL YAPILIR <a id="nasil-yapilir-1"></a>
 
+* [Uygulamaya Kaydolma](nasil-yapilir-1/uygulamaya-kaydolma.md)
+* [Kullanıcı Doğrulama](nasil-yapilir-1/kullanici-dogrulama.md)
+* [Şifre / PIN İşlemleri](nasil-yapilir-1/sifre-pin-islemleri/README.md)
+  * [Şifre](nasil-yapilir-1/sifre-pin-islemleri/sifre.md)
+  * [PIN](nasil-yapilir-1/sifre-pin-islemleri/pin.md)
+* [Kullanıcı Ekleme / Silme](nasil-yapilir-1/kullanici-ekleme-silme.md)
+* [Giriş](nasil-yapilir-1/giris.md)
+* [Ana Sayfa](nasil-yapilir-1/ana-sayfa/README.md)
+  * [Daha Fazla Menüsü](nasil-yapilir-1/ana-sayfa/daha-fazla.md)
 * [POS Hareketlerini Görüntüleme](nasil-yapilir-1/pos-hareketlerini-goeruentueleme.md)
 * [Gün Sonu Alma](nasil-yapilir-1/guen-sonu-alma.md)
 * [Kategori Ekleme / Güncelleme](nasil-yapilir-1/kategori-ekleme-guencelleme.md)
@@ -43,5 +42,7 @@
 
 ---
 
+* [Sık Sorulan Sorular](sik-sorulan-sorular.md)
+* [Ticari Marka Bilgilendirmesi](ticari-marka-bilgilendirmesi.md)
 * [Telif Hakkı](telif-hakki.md)
 
