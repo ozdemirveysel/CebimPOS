@@ -24,5 +24,5 @@ Ana sayfada CebimPOS ile gerçekleştirdiğiniz işlemlerin bir kısmını göre
 
 POS Hareketleri’ne Daha Fazla ikonu ile de erişebilirsiniz.
 
-![](../../.gitbook/assets/12%20%282%29.png)
+![](../../.gitbook/assets/12%20%282%29%20%281%29.png)
 
