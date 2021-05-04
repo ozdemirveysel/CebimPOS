@@ -6,7 +6,7 @@ description: >-
 
 # Son Kullanıcı Dokümanı
 
-## Hakkında -test
+## Hakkında
 
 Bu doküman; CebimPOS uygulaması hakkında bilgi vermek, özelliklerini göstermek ve ürünün nasıl kullanılacağını anlatmak amacıyla hazırlanmıştır. Dokümanda kullanılan ekran görüntülerindeki veriler ve müşteri bilgileri, gerçek değildir.
 
