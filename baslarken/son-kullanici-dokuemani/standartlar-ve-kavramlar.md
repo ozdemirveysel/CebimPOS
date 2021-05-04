@@ -1,9 +1,5 @@
 # Standartlar ve Kavramlar
 
-
-
-## Doküman Standartları
-
 Bu dokümanın hazırlanmasında bazı standartlar ve formatlar uygulanmıştır. Bu kapsamda önemli bilgiler özel formatlar ve simgelerle gösterilmiştir.
 
 Aşağıdakiler bu standartların bir listesidir:
