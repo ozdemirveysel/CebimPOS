@@ -6,5 +6,3 @@ CebimPOS, portföyünüzdeki ürünlerinizi satmanızı ve müşterilerinizden n
 
 ![](.gitbook/assets/cebimposlogo.png)
 
-deneme 2
-
