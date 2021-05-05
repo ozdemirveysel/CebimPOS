@@ -1,6 +1,6 @@
 # Satış Yapma
 
-CebimPOS’ta ürün satışı yapabilmeniz için öncelikle kategorilerinizin oluşturulmuş, ürünlerinizin eklenmiş olması gerekir. Ana Sayfa’daki **Satış Yap** butonu ile satış ekranlarına erişebilirsiniz.
+CebimPOS’ta ürün satışı yapabilmeniz için öncelikle kategorilerinizin oluşturulmuş, ürünlerinizin eklenmiş olması gerekir. Bunların da öncesinde Ayarlar &gt; E-belge Ayarları ekranından entegratör firma seçiminizi / kaydınızı yapmanız gerekecektir. Ana Sayfa’daki **Satış Yap** butonu ile satış ekranlarına erişebilirsiniz.
 
 ![](../.gitbook/assets/31.png)
 

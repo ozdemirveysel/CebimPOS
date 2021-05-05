@@ -12,7 +12,7 @@ Ardından e-fatura numaranızı girmeniz istenir.
 
 ![](../../.gitbook/assets/57.png)
 
-Üyeliğiniz varsa entegratör firma bilgileriniz kaydedebileceğiniz, yoksa başvuru adımına geçebileceğiniz ekran görüntülenir.
+Üyeliğiniz varsa entegratör firma bilgilerinizi kaydedebileceğiniz, yoksa başvuru adımına geçebileceğiniz ekran görüntülenir.
 
 ![](../../.gitbook/assets/58.png)
 
