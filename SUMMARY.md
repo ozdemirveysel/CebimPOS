@@ -2,7 +2,7 @@
 
 * [CebimPOS](README.md)
 
-## 🏁 BAŞLARKEN
+## BAŞLARKEN
 
 * [Doküman Standartları ve Kavramlar](baslarken/son-kullanici-dokuemani/README.md)
   * [Giriş](baslarken/son-kullanici-dokuemani/giris.md)
@@ -17,7 +17,7 @@
   * [Güvenli Kullanım](baslarken/cebimpos-hakkinda/guvenli-kullanim.md)
   * [İletişim](baslarken/cebimpos-hakkinda/iletisim.md)
 
-## ⚙️ NASIL YAPILIR <a id="nasil-yapilir-1"></a>
+## NASIL YAPILIR <a id="nasil-yapilir-1"></a>
 
 * [Uygulamaya Kaydolma](nasil-yapilir-1/uygulamaya-kaydolma.md)
 * [Kullanıcı Doğrulama](nasil-yapilir-1/kullanici-dogrulama.md)
